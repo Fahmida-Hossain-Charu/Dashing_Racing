@@ -1,0 +1,5 @@
+node_modules/
+.openai/*.local.*
+.openai/credentials*
+*.tar.gz
+*.zip
